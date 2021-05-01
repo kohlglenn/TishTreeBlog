@@ -1,16 +1,13 @@
 ---
 template: ComponentsPage
 slug: components
-title: Components Page
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
-subtitle: This is the components page subtitle.
-section1: >-
-  ## This is a container component
+title: My journal ...
+featuredImage: https://ucarecdn.com/13437aba-5694-40b7-be10-ee5e9bedf086/-/preview/-/rotate/270/-/enhance/100/
+subtitle: This is the journal page subtitle.
+section1: |-
+  ## This is a container component.
 
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
-
-
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
+  What is a container component? Not quite sure what this spot is for just yet.
 section2: >-
   ## You can use videos, images and text.
 
