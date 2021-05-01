@@ -1,10 +1,10 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact
+title: Mabel approved.
 featuredImage: https://ucarecdn.com/c1789f40-5a1a-4d45-813c-19c93a755035/-/preview/-/enhance/100/
-subtitle: This is Mabel.
-address: New Westminster, BC
+subtitle: A perspective \[of my dog] beneath the tree.
+address: British Columbia
 phone: none
 email: none
 locations:
@@ -15,4 +15,4 @@ meta:
   description: This is a meta description.
   title: Contact Me
 ---
-# **Contact**
+# **do not contact.**
