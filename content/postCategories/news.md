@@ -1,8 +1,6 @@
 ---
 template: BlogIndex
-title: News
-subtitle: ''
-featuredImage: >-
-  https://ucarecdn.com/db0b1431-8739-426f-970d-8a80eacf02ef/-/preview/-/rotate/270/
+title: Trees
+subtitle: ""
+featuredImage: https://ucarecdn.com/664dcd2f-1e80-4973-977d-4f59a1f6c40b/-/preview/-/enhance/100/
 ---
-
