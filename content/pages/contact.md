@@ -7,7 +7,10 @@ subtitle: Hello there. Nice to see you. Hope you are doing well. :)
 address: New Westminster, BC
 phone: not applicable
 email: example@example.com
-locations: []
+locations:
+  - mapLink: ""
+    lat: "49.207621048887134"
+    lng: "-122.92610849339216"
 meta:
   description: This is a meta description.
   title: Contact Page
