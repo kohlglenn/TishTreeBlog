@@ -8,8 +8,8 @@ address: New Westminster, BC
 phone: not applicable
 email: example@example.com
 locations:
-  - lat: "49.21233111582333"
-    lng: "-122.91855539349639"
+  - lat: "-122.91855539349639"
+    lng: "49.21233111582333"
     mapLink: ""
 meta:
   description: This is a meta description.
