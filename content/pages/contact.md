@@ -1,7 +1,7 @@
 ---
 template: ContactPage
 slug: contact
-title: Mabel approved.
+title: Mabel
 featuredImage: https://ucarecdn.com/c1789f40-5a1a-4d45-813c-19c93a755035/-/preview/-/enhance/100/
 subtitle: A perspective \[of my dog] beneath the tree.
 address: British Columbia
