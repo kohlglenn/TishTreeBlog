@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ""
-title: My urban forest journey.
+title: The urban forest journey.
 featuredImage: https://ucarecdn.com/35c1cf50-847b-485e-96b8-6adae4400978/-/preview/-/rotate/270/-/enhance/100/
 subtitle: " A perspective from beneath the tree."
 meta:
